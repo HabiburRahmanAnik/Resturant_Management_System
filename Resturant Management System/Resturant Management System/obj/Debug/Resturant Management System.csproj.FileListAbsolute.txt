@@ -1,0 +1,126 @@
+F:\8th semester\C#\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe.config
+F:\8th semester\C#\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe
+F:\8th semester\C#\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.pdb
+F:\8th semester\C#\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csprojAssemblyReference.cache
+F:\8th semester\C#\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.LoginFrom.resources
+F:\8th semester\C#\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Properties.Resources.resources
+F:\8th semester\C#\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.GenerateResource.cache
+F:\8th semester\C#\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.CoreCompileInputs.cache
+F:\8th semester\C#\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.exe
+F:\8th semester\C#\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.pdb
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe.config
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.pdb
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csprojAssemblyReference.cache
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.LoginFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Properties.Resources.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.GenerateResource.cache
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.CoreCompileInputs.cache
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.exe
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.pdb
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ManagerFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.WaiterFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ChangePasswordFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.MenuFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.OrderFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewCategory.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.PaymentFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.FinancialFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.AdminFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.BookingTableFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.AddEmployeeFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.DeleteBookingTableFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.DeleteEmployeeFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.FoodCategoryFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ManageEmployeeFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.UpdateEmployeeFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewOrderFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewMenuFrom.resources
+F:\8th semester\git\Resturant-Management-System\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.MyProfileFrom.resources
+E:\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe.config
+E:\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe
+E:\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.pdb
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csprojAssemblyReference.cache
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.AddEmployeeFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.AdminFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.BookingTableFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ChangePasswordFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.DeleteBookingTableFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.DeleteEmployeeFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.FinancialFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.FoodCategoryFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.LoginFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ManageEmployeeFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ManagerFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.MenuFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.MyProfileFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.OrderFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.PaymentFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.UpdateEmployeeFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewCategory.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewMenuFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewOrderFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.WaiterFrom.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Properties.Resources.resources
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.GenerateResource.cache
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.CoreCompileInputs.cache
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.exe
+E:\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.pdb
+F:\8th semester\git\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe.config
+F:\8th semester\git\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe
+F:\8th semester\git\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.pdb
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csprojAssemblyReference.cache
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.AddEmployeeFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.AdminFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.BookingTableFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ChangePasswordFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.DeleteBookingTableFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.DeleteEmployeeFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.FinancialFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.FoodCategoryFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.LoginFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ManageEmployeeFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ManagerFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.MenuFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.MyProfileFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.OrderFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.PaymentFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.UpdateEmployeeFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewMenuFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewOrderFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.WaiterFrom.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Properties.Resources.resources
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.GenerateResource.cache
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.CoreCompileInputs.cache
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.exe
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.pdb
+F:\8th semester\git\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewCategoryFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe.config
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.exe
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\bin\Debug\Resturant Management System.pdb
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csprojAssemblyReference.cache
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.AddEmployeeFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.AdminFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.BookingTableFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ChangePasswordFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.DeleteBookingTableFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.DeleteEmployeeFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.FinancialFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.FoodCategoryFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.LoginFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ManageEmployeeFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ManagerFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.MenuFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.MyProfileFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.OrderFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.PaymentFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.UpdateEmployeeFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewCategoryFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewMenuFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.ViewOrderFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Presentation_Layer.WaiterFrom.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant_Management_System.Properties.Resources.resources
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.GenerateResource.cache
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.csproj.CoreCompileInputs.cache
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.exe
+F:\8th semester\C#\Project\Resturant Management System\Resturant Management System\obj\Debug\Resturant Management System.pdb

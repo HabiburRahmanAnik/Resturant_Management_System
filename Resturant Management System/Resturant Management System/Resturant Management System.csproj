@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0AACCAF-2037-4FE8-BF6C-3957E30FFCCE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Resturant_Management_System</RootNamespace>
+    <AssemblyName>Resturant Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data Access Layer\AddEmployeeDataAccess.cs" />
+    <Compile Include="Data Access Layer\BookingTableDataAccess.cs" />
+    <Compile Include="Data Access Layer\CategoryDataAccess.cs" />
+    <Compile Include="Data Access Layer\ChangePasswordDataAccess.cs" />
+    <Compile Include="Data Access Layer\DataAccess.cs" />
+    <Compile Include="Data Access Layer\FinancialDataAccess.cs" />
+    <Compile Include="Data Access Layer\LoginDataAccess.cs" />
+    <Compile Include="Data Access Layer\ManageEmployeeDataAccess.cs" />
+    <Compile Include="Data Access Layer\MenuDataAccess.cs" />
+    <Compile Include="Data Access Layer\OrderDataAccess.cs" />
+    <Compile Include="Data Access Layer\PaymentDataAccess.cs" />
+    <Compile Include="Entities\BookingTable.cs" />
+    <Compile Include="Entities\Category.cs" />
+    <Compile Include="Entities\Menu1.cs" />
+    <Compile Include="Entities\Order.cs" />
+    <Compile Include="Entities\Payment.cs" />
+    <Compile Include="Entities\User.cs" />
+    <Compile Include="Presentation Layer\AddEmployeeFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\AddEmployeeFrom.Designer.cs">
+      <DependentUpon>AddEmployeeFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\AdminFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\AdminFrom.Designer.cs">
+      <DependentUpon>AdminFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\BookingTableFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\BookingTableFrom.Designer.cs">
+      <DependentUpon>BookingTableFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ChangePasswordFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ChangePasswordFrom.Designer.cs">
+      <DependentUpon>ChangePasswordFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\DeleteBookingTableFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\DeleteBookingTableFrom.Designer.cs">
+      <DependentUpon>DeleteBookingTableFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\DeleteEmployeeFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\DeleteEmployeeFrom.Designer.cs">
+      <DependentUpon>DeleteEmployeeFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\FinancialFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\FinancialFrom.Designer.cs">
+      <DependentUpon>FinancialFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\FoodCategoryFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\FoodCategoryFrom.Designer.cs">
+      <DependentUpon>FoodCategoryFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\LoginFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\LoginFrom.Designer.cs">
+      <DependentUpon>LoginFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ManageEmployeeFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ManageEmployeeFrom.Designer.cs">
+      <DependentUpon>ManageEmployeeFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ManagerFrom.Designer.cs">
+      <DependentUpon>ManagerFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\MenuFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\MenuFrom.Designer.cs">
+      <DependentUpon>MenuFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\MyProfileFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\MyProfileFrom.Designer.cs">
+      <DependentUpon>MyProfileFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\OrderFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\OrderFrom.Designer.cs">
+      <DependentUpon>OrderFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\PaymentFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\PaymentFrom.Designer.cs">
+      <DependentUpon>PaymentFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\UpdateEmployeeFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\UpdateEmployeeFrom.Designer.cs">
+      <DependentUpon>UpdateEmployeeFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ViewCategoryFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ViewCategoryFrom.Designer.cs">
+      <DependentUpon>ViewCategoryFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ViewMenuFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ViewMenuFrom.Designer.cs">
+      <DependentUpon>ViewMenuFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\ViewOrderFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\ViewOrderFrom.Designer.cs">
+      <DependentUpon>ViewOrderFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation Layer\WaiterFrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation Layer\WaiterFrom.Designer.cs">
+      <DependentUpon>WaiterFrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resturant Logic Layer\AddEmployeeService.cs" />
+    <Compile Include="Resturant Logic Layer\BookingTableService.cs" />
+    <Compile Include="Resturant Logic Layer\CategoryService.cs" />
+    <Compile Include="Resturant Logic Layer\ChangePasswordService.cs" />
+    <Compile Include="Resturant Logic Layer\FinancialService.cs" />
+    <Compile Include="Resturant Logic Layer\LoginService.cs" />
+    <Compile Include="Resturant Logic Layer\ManageEmployeeService.cs" />
+    <Compile Include="Resturant Logic Layer\MenuService.cs" />
+    <Compile Include="Resturant Logic Layer\OrderService.cs" />
+    <Compile Include="Resturant Logic Layer\PaymentService.cs" />
+    <EmbeddedResource Include="Presentation Layer\AddEmployeeFrom.resx">
+      <DependentUpon>AddEmployeeFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\AdminFrom.resx">
+      <DependentUpon>AdminFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\BookingTableFrom.resx">
+      <DependentUpon>BookingTableFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ChangePasswordFrom.resx">
+      <DependentUpon>ChangePasswordFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\DeleteBookingTableFrom.resx">
+      <DependentUpon>DeleteBookingTableFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\DeleteEmployeeFrom.resx">
+      <DependentUpon>DeleteEmployeeFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\FinancialFrom.resx">
+      <DependentUpon>FinancialFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\FoodCategoryFrom.resx">
+      <DependentUpon>FoodCategoryFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\LoginFrom.resx">
+      <DependentUpon>LoginFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ManageEmployeeFrom.resx">
+      <DependentUpon>ManageEmployeeFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ManagerFrom.resx">
+      <DependentUpon>ManagerFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\MenuFrom.resx">
+      <DependentUpon>MenuFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\MyProfileFrom.resx">
+      <DependentUpon>MyProfileFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\OrderFrom.resx">
+      <DependentUpon>OrderFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\PaymentFrom.resx">
+      <DependentUpon>PaymentFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\UpdateEmployeeFrom.resx">
+      <DependentUpon>UpdateEmployeeFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ViewCategoryFrom.resx">
+      <DependentUpon>ViewCategoryFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ViewMenuFrom.resx">
+      <DependentUpon>ViewMenuFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\ViewOrderFrom.resx">
+      <DependentUpon>ViewOrderFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation Layer\WaiterFrom.resx">
+      <DependentUpon>WaiterFrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\restaurant.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\howtodeletethejunkphotosinyourwhatsappfolder-25-1490425207.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\images %282%29.jpeg" />
+    <None Include="Resources\images %282%291.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
